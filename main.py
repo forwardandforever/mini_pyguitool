@@ -15,6 +15,7 @@ from tkinter import ttk, scrolledtext, messagebox
 import urllib.parse
 import random
 import json
+import base64
 
 do_one_js_code_lock = threading.Lock()
 
